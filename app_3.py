@@ -1,0 +1,1 @@
+#https://koor.fr/Python/CodeSamplesSqlAlchemy/SimpleMapping.wp
